@@ -1,0 +1,223 @@
+*{
+    margin: 0px;
+}
+
+#header{
+    background-color: #1F2937;
+}
+
+#header-navbar{
+    /* display: inline; */
+    text-decoration: none;
+    list-style-type: none;
+    padding: 20px;
+}
+
+#header-navbar-item1, #header-navbar-item2, #header-navbar-item3, #header-navbar-item4{
+    display: inline;
+}
+
+#header-navbar-item1{
+    padding-left: 260px;
+    color: #F9FAF8;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+#header-navbar{
+    color: #E5E7EB;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#header-navbar-item2{
+    padding-left: 450px;
+}
+
+#header-navbar-item3{   
+    padding-left: 18px;
+}
+
+#header-navbar-item4{
+    padding-left: 18px;
+}
+
+#section1{
+    background-color: #1F2937;
+}
+
+#hero-title{
+    margin-left: 280px;
+    padding-top: 100px;
+    margin-right: 900px;
+    color: #F9FAF8;
+    font-size: 48px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900; 
+}
+
+#hero-title-descrip{
+    padding-top: 5px;
+    margin-top: -160px;
+    padding-left: 280px;
+    margin-right: 870px;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#signup-btn{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 900;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 22px;
+    padding-right: 22px;
+    margin-left: 280px;
+    margin-top: 10px;
+    margin-bottom: 155px;
+    border-radius: 10px;
+    border-style: none;
+}
+
+#hero-image{
+    margin-left: 890px;
+    margin-top: -115px;
+}
+
+#info-title{
+    font-size: 36px;
+    font-weight: 1000;
+    font-family: 'Roboto', sans-serif;
+    color: #1F2937;
+    margin-left: 575px;
+    margin-top: 50px;
+}
+
+#info-list{
+    /* display: inline; */
+    text-decoration: none;
+    list-style-type: none;
+    margin-top: 110px;
+    margin-left: 155px;
+    padding-bottom: 150px;
+}
+
+#info-list-item1, #info-list-item2, #info-list-item3, #info-list-item4{
+    display: inline;
+}
+
+#info-list-item1{
+    text-align: center;
+    border: 3px solid blue;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-right: 1060px;
+}
+
+#info-list-item2{
+    text-align: center;
+    border: 3px solid blue;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-radius: 10px;
+    margin-left: -990px;
+}
+
+#info-list-item3{
+    text-align: center;
+    border: 3px solid blue;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-radius: 10px;
+    margin-left: 65px ;
+}
+
+#info-list-item4{
+    text-align: center;
+    border: 3px solid blue;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-radius: 10px;
+    margin-left: 65px;
+}
+
+#section3{
+    background-color: #E5E7EB;
+    padding-bottom: 50px;
+}
+
+#quote-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    padding-top: 40px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#quote-author{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 900px;
+    font-size: 28px;
+    font-weight: 900;
+}
+
+#section4{
+    padding-bottom: 40px;
+    
+}
+
+#call-to-action{
+    border: 3px solid blue;
+    padding: 60px;
+    padding-left: 120px;
+    margin-left: 260px;
+    margin-right: 260px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: blue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+#call-to-sbtn{
+    color: #F9FAF8;
+    background-color: blue;
+    margin-left: 160px;
+    margin-bottom: -200px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px white solid;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+#footer{
+    background-color: #1F2937;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #F9FAF8;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
